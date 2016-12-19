@@ -1,0 +1,2330 @@
+[
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.59015,
+    "species": "Granulicella_unclassified",
+    "temp": 20.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.49463,
+    "species": "Agromyces_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.591689999999999,
+    "species": "Curtobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Leifsonia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.50272,
+    "species": "Rothia_dentocariosa",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.53873,
+    "species": "Rothia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Nocardioides_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 26.96477,
+    "species": "Propionibacterium_acnes",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 91.81549000000001,
+    "species": "Bifidobacterium_asteroides",
+    "temp": 35.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.15938,
+    "species": "Prevotella_disiens",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.6258099999999995,
+    "species": "Hymenobacter_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Chryseobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Riemerella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 10.39909,
+    "species": "Pedobacter_unclassified",
+    "temp": 27.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Sphingobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.1870399999999999,
+    "species": "Microcoleus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Deinococcus_aquatilis",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.5358,
+    "species": "Deinococcus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Bacillus_megaterium",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 3.92567,
+    "species": "Sporosarcina_newyorkensis",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.77331,
+    "species": "Staphylococcus_epidermidis",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Carnobacterium_maltaromaticum",
+    "temp": 20.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.13604000000000002,
+    "species": "Granulicatella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Enterococcus_casseliflavus",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Fructobacillus_fructosus",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.67723,
+    "species": "Lactococcus_lactis",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 2.1607,
+    "species": "Streptococcus_mitis_oralis_pneumoniae",
+    "temp": 32.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.50185,
+    "species": "Finegoldia_magna",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Asticcacaulis_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Brevundimonas_diminuta",
+    "temp": 35.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Brevundimonas_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.51527,
+    "species": "Caulobacter_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.11693,
+    "species": "Caulobacter_vibrioides",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Bartonella_unclassified",
+    "temp": 36.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 38.331520000000005,
+    "species": "Bradyrhizobium_sp_DFCI_1",
+    "temp": 25.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 2.72859,
+    "species": "Mesorhizobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Roseomonas_unclassified",
+    "temp": 31.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.187180000000001,
+    "species": "Rickettsia_felis",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.74541,
+    "species": "Rickettsia_parkeri",
+    "temp": 39.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.27,
+    "species": "Sphingobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 51.39655,
+    "species": "Sphingomonas_sp_S17",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Sphingopyxis_unclassified",
+    "temp": 29.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Bordetella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 5.7726,
+    "species": "Burkholderia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.20727,
+    "species": "Thiomonas_unclassified",
+    "temp": 50.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 11.30928,
+    "species": "Acidovorax_ebreus",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.277760000000001,
+    "species": "Alicycliphilus_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.773,
+    "species": "Comamonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.0126,
+    "species": "Limnohabitans_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.33366,
+    "species": "Polaromonas_unclassified",
+    "temp": 12.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 2.42434,
+    "species": "Variovorax_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 5.387,
+    "species": "Verminephrobacter_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.25656,
+    "species": "Janthinobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 28.286910000000002,
+    "species": "Massilia_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Methylophilus_methylotrophus",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Methylophilus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.76199,
+    "species": "Neisseria_unclassified",
+    "temp": 22.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Enterobacter_asburiae",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 29.786039999999996,
+    "species": "Enterobacter_cloacae",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.42936,
+    "species": "Erwinia_tasmaniensis",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 3.04711,
+    "species": "Escherichia_coli",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 15.6943,
+    "species": "Escherichia_hermannii",
+    "temp": 36.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 24.2359,
+    "species": "Escherichia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 3.16358,
+    "species": "Klebsiella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.4646,
+    "species": "Pantoea_agglomerans",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.51991,
+    "species": "Pantoea_ananatis",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 56.27521,
+    "species": "Pantoea_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.81234,
+    "species": "Pantoea_vagans",
+    "temp": 28.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Providencia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Raoultella_ornithinolytica",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 2.99262,
+    "species": "Serratia_marcescens",
+    "temp": 33.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.33065,
+    "species": "Acinetobacter_johnsonii",
+    "temp": 33.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 7.20771,
+    "species": "Acinetobacter_junii",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Acinetobacter_lwoffii",
+    "temp": 26.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 21.77204,
+    "species": "Acinetobacter_nectaris",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis",
+    "temp": 34.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 7.60723,
+    "species": "Acinetobacter_radioresistens",
+    "temp": 35.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 1.98822,
+    "species": "Acinetobacter_schindleri",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 112.65188,
+    "species": "Acinetobacter_unclassified",
+    "temp": 25.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Enhydrobacter_aerosaccus",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.45671,
+    "species": "Pseudomonas_aeruginosa",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.04605,
+    "species": "Pseudomonas_amygdali",
+    "temp": 27.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 6.57021,
+    "species": "Pseudomonas_fragi",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.69306,
+    "species": "Pseudomonas_mandelii",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 32.97994,
+    "species": "Pseudomonas_putida",
+    "temp": 27.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 100.27938999999999,
+    "species": "Pseudomonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Stenotrophomonas_maltophilia",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.024069999999999998,
+    "species": "Spiroplasma_melliferum",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Zygosaccharomyces_rouxii",
+    "temp": 22.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Fusarium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Nosema_ceranae",
+    "temp": 35.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Cronobacter_phage_vB_CsaM_GAP161",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Enterobacteria_phage_CC31",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "C2likevirus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.0,
+    "species": "Human_adenovirus_D",
+    "temp": 37.0
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.76389,
+    "species": "Plectrovirus_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "ASTORIA HIVE",
+    "percentage": 0.44242,
+    "species": "Influenza_A_virus",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.38038,
+    "species": "Granulicella_unclassified",
+    "temp": 20.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.9711700000000001,
+    "species": "Agromyces_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 10.13123,
+    "species": "Curtobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.34312,
+    "species": "Leifsonia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Rothia_dentocariosa",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.30535,
+    "species": "Rothia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.06917999999999999,
+    "species": "Nocardioides_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 11.226939999999999,
+    "species": "Propionibacterium_acnes",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.5237,
+    "species": "Bifidobacterium_asteroides",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.3533,
+    "species": "Prevotella_disiens",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.66098,
+    "species": "Hymenobacter_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Chryseobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Riemerella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 14.983080000000001,
+    "species": "Pedobacter_unclassified",
+    "temp": 27.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.2676,
+    "species": "Sphingobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Microcoleus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Deinococcus_aquatilis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.2618300000000002,
+    "species": "Deinococcus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.23881,
+    "species": "Bacillus_megaterium",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.06991,
+    "species": "Sporosarcina_newyorkensis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Staphylococcus_epidermidis",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Carnobacterium_maltaromaticum",
+    "temp": 20.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Granulicatella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Enterococcus_casseliflavus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Fructobacillus_fructosus",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.41503999999999996,
+    "species": "Lactococcus_lactis",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.28686,
+    "species": "Streptococcus_mitis_oralis_pneumoniae",
+    "temp": 32.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.049980000000000004,
+    "species": "Finegoldia_magna",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.41988000000000003,
+    "species": "Asticcacaulis_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.70634,
+    "species": "Brevundimonas_diminuta",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.4624200000000003,
+    "species": "Brevundimonas_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 4.45603,
+    "species": "Caulobacter_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.27243,
+    "species": "Caulobacter_vibrioides",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.35039,
+    "species": "Bartonella_unclassified",
+    "temp": 36.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Bradyrhizobium_sp_DFCI_1",
+    "temp": 25.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.14117000000000002,
+    "species": "Mesorhizobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Roseomonas_unclassified",
+    "temp": 31.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Rickettsia_felis",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Rickettsia_parkeri",
+    "temp": 39.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Sphingobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 105.36735999999999,
+    "species": "Sphingomonas_sp_S17",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Sphingopyxis_unclassified",
+    "temp": 29.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Bordetella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.13731,
+    "species": "Burkholderia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.8923200000000001,
+    "species": "Thiomonas_unclassified",
+    "temp": 50.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.38674000000000003,
+    "species": "Acidovorax_ebreus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Alicycliphilus_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.1151,
+    "species": "Comamonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.2050999999999998,
+    "species": "Limnohabitans_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 3.12245,
+    "species": "Polaromonas_unclassified",
+    "temp": 12.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.8931900000000002,
+    "species": "Variovorax_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 7.27543,
+    "species": "Verminephrobacter_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.8932,
+    "species": "Janthinobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.06898,
+    "species": "Massilia_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Methylophilus_methylotrophus",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Methylophilus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Neisseria_unclassified",
+    "temp": 22.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Enterobacter_asburiae",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 21.96222,
+    "species": "Enterobacter_cloacae",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Erwinia_tasmaniensis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 82.33682999999999,
+    "species": "Escherichia_coli",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 8.21903,
+    "species": "Escherichia_hermannii",
+    "temp": 36.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 22.88948,
+    "species": "Escherichia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Klebsiella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Pantoea_agglomerans",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Pantoea_ananatis",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 16.24359,
+    "species": "Pantoea_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Pantoea_vagans",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Providencia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Raoultella_ornithinolytica",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Serratia_marcescens",
+    "temp": 33.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Acinetobacter_johnsonii",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Acinetobacter_junii",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Acinetobacter_lwoffii",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.08764,
+    "species": "Acinetobacter_nectaris",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.0578100000000001,
+    "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis",
+    "temp": 34.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Acinetobacter_radioresistens",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Acinetobacter_schindleri",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 50.76314,
+    "species": "Acinetobacter_unclassified",
+    "temp": 25.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Enhydrobacter_aerosaccus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Pseudomonas_aeruginosa",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Pseudomonas_amygdali",
+    "temp": 27.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.9617600000000001,
+    "species": "Pseudomonas_fragi",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.44893,
+    "species": "Pseudomonas_mandelii",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 14.31231,
+    "species": "Pseudomonas_putida",
+    "temp": 27.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 50.38316,
+    "species": "Pseudomonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.24475,
+    "species": "Stenotrophomonas_maltophilia",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Spiroplasma_melliferum",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 7.004739999999999,
+    "species": "Zygosaccharomyces_rouxii",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Fusarium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Nosema_ceranae",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Cronobacter_phage_vB_CsaM_GAP161",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Enterobacteria_phage_CC31",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "C2likevirus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.11832999999999999,
+    "species": "Human_adenovirus_D",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Plectrovirus_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.0,
+    "species": "Influenza_A_virus",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Granulicella_unclassified",
+    "temp": 20.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Agromyces_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Curtobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Leifsonia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Rothia_dentocariosa",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Rothia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.04833,
+    "species": "Nocardioides_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 12.58155,
+    "species": "Propionibacterium_acnes",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.42416,
+    "species": "Bifidobacterium_asteroides",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Prevotella_disiens",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.92178,
+    "species": "Hymenobacter_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.10569,
+    "species": "Chryseobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 6.17273,
+    "species": "Riemerella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 11.683520000000001,
+    "species": "Pedobacter_unclassified",
+    "temp": 27.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Sphingobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Microcoleus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.01762,
+    "species": "Deinococcus_aquatilis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 9.298659999999998,
+    "species": "Deinococcus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Bacillus_megaterium",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 9.707790000000001,
+    "species": "Sporosarcina_newyorkensis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Staphylococcus_epidermidis",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.03879,
+    "species": "Carnobacterium_maltaromaticum",
+    "temp": 20.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Granulicatella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.3105200000000001,
+    "species": "Enterococcus_casseliflavus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Fructobacillus_fructosus",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 4.76701,
+    "species": "Lactococcus_lactis",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.36066,
+    "species": "Streptococcus_mitis_oralis_pneumoniae",
+    "temp": 32.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Finegoldia_magna",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Asticcacaulis_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Brevundimonas_diminuta",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 14.5654,
+    "species": "Brevundimonas_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 4.971080000000001,
+    "species": "Caulobacter_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.01429,
+    "species": "Caulobacter_vibrioides",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.46352,
+    "species": "Bartonella_unclassified",
+    "temp": 36.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Bradyrhizobium_sp_DFCI_1",
+    "temp": 25.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.7793100000000001,
+    "species": "Mesorhizobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.98624,
+    "species": "Roseomonas_unclassified",
+    "temp": 31.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Rickettsia_felis",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Rickettsia_parkeri",
+    "temp": 39.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.4188,
+    "species": "Sphingobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 165.89306,
+    "species": "Sphingomonas_sp_S17",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.6168600000000001,
+    "species": "Sphingopyxis_unclassified",
+    "temp": 29.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.41928000000000004,
+    "species": "Bordetella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Burkholderia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Thiomonas_unclassified",
+    "temp": 50.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 15.612440000000001,
+    "species": "Acidovorax_ebreus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.86505,
+    "species": "Alicycliphilus_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.07985,
+    "species": "Comamonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.26749,
+    "species": "Limnohabitans_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.5846799999999999,
+    "species": "Polaromonas_unclassified",
+    "temp": 12.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 7.4593300000000005,
+    "species": "Variovorax_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.19493,
+    "species": "Verminephrobacter_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Janthinobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 14.62797,
+    "species": "Massilia_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.08947000000000001,
+    "species": "Methylophilus_methylotrophus",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.03709,
+    "species": "Methylophilus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Neisseria_unclassified",
+    "temp": 22.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.11663,
+    "species": "Enterobacter_asburiae",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 37.17051,
+    "species": "Enterobacter_cloacae",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Erwinia_tasmaniensis",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 44.02183,
+    "species": "Escherichia_coli",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 11.926060000000001,
+    "species": "Escherichia_hermannii",
+    "temp": 36.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 6.5935500000000005,
+    "species": "Escherichia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.30703,
+    "species": "Klebsiella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pantoea_agglomerans",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pantoea_ananatis",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.3145,
+    "species": "Pantoea_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pantoea_vagans",
+    "temp": 28.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Providencia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0602,
+    "species": "Raoultella_ornithinolytica",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Serratia_marcescens",
+    "temp": 33.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.8795,
+    "species": "Acinetobacter_johnsonii",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 13.67534,
+    "species": "Acinetobacter_junii",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Acinetobacter_lwoffii",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.71558,
+    "species": "Acinetobacter_nectaris",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis",
+    "temp": 34.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.08594,
+    "species": "Acinetobacter_radioresistens",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Acinetobacter_schindleri",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 58.60735999999999,
+    "species": "Acinetobacter_unclassified",
+    "temp": 25.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.23667,
+    "species": "Enhydrobacter_aerosaccus",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pseudomonas_aeruginosa",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pseudomonas_amygdali",
+    "temp": 27.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.07096000000000001,
+    "species": "Pseudomonas_fragi",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Pseudomonas_mandelii",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 17.99362,
+    "species": "Pseudomonas_putida",
+    "temp": 27.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 38.78888,
+    "species": "Pseudomonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Stenotrophomonas_maltophilia",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Spiroplasma_melliferum",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Zygosaccharomyces_rouxii",
+    "temp": 22.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.09421,
+    "species": "Fusarium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.23068,
+    "species": "Nosema_ceranae",
+    "temp": 35.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 34.906890000000004,
+    "species": "Cronobacter_phage_vB_CsaM_GAP161",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 16.49406,
+    "species": "Enterobacteria_phage_CC31",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "C2likevirus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Human_adenovirus_D",
+    "temp": 37.0
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Plectrovirus_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0,
+    "species": "Influenza_A_virus",
+    "temp": 35.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Granulicella_unclassified",
+    "temp": 20.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Agromyces_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Curtobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Leifsonia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Rothia_dentocariosa",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Rothia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Nocardioides_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 10.60731,
+    "species": "Propionibacterium_acnes",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 152.19645,
+    "species": "Bifidobacterium_asteroides",
+    "temp": 35.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Prevotella_disiens",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Hymenobacter_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.15924000000000002,
+    "species": "Chryseobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Riemerella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pedobacter_unclassified",
+    "temp": 27.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Sphingobacterium_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Microcoleus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Deinococcus_aquatilis",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Deinococcus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Bacillus_megaterium",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 1.37937,
+    "species": "Sporosarcina_newyorkensis",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Staphylococcus_epidermidis",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Carnobacterium_maltaromaticum",
+    "temp": 20.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Granulicatella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Enterococcus_casseliflavus",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.2536,
+    "species": "Fructobacillus_fructosus",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Lactococcus_lactis",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Streptococcus_mitis_oralis_pneumoniae",
+    "temp": 32.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Finegoldia_magna",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Asticcacaulis_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Brevundimonas_diminuta",
+    "temp": 35.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Brevundimonas_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 1.21393,
+    "species": "Caulobacter_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Caulobacter_vibrioides",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 58.77292,
+    "species": "Bartonella_unclassified",
+    "temp": 36.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Bradyrhizobium_sp_DFCI_1",
+    "temp": 25.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.70922,
+    "species": "Mesorhizobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Roseomonas_unclassified",
+    "temp": 31.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 17.15449,
+    "species": "Rickettsia_felis",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 3.33249,
+    "species": "Rickettsia_parkeri",
+    "temp": 39.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Sphingobium_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 32.12856,
+    "species": "Sphingomonas_sp_S17",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Sphingopyxis_unclassified",
+    "temp": 29.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Bordetella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Burkholderia_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Thiomonas_unclassified",
+    "temp": 50.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.39343,
+    "species": "Acidovorax_ebreus",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Alicycliphilus_unclassified",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.83295,
+    "species": "Comamonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.7088899999999999,
+    "species": "Limnohabitans_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 3.1477,
+    "species": "Polaromonas_unclassified",
+    "temp": 12.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 5.05131,
+    "species": "Variovorax_unclassified",
+    "temp": 22.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 6.06733,
+    "species": "Verminephrobacter_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Janthinobacterium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 2.04053,
+    "species": "Massilia_unclassified",
+    "temp": 15.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Methylophilus_methylotrophus",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Methylophilus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Neisseria_unclassified",
+    "temp": 22.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Enterobacter_asburiae",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 23.922,
+    "species": "Enterobacter_cloacae",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Erwinia_tasmaniensis",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 3.16601,
+    "species": "Escherichia_coli",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 13.34983,
+    "species": "Escherichia_hermannii",
+    "temp": 36.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 12.872,
+    "species": "Escherichia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Klebsiella_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pantoea_agglomerans",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pantoea_ananatis",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pantoea_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pantoea_vagans",
+    "temp": 28.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 3.28619,
+    "species": "Providencia_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Raoultella_ornithinolytica",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 7.3156300000000005,
+    "species": "Serratia_marcescens",
+    "temp": 33.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Acinetobacter_johnsonii",
+    "temp": 33.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.11439,
+    "species": "Acinetobacter_junii",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.9993200000000001,
+    "species": "Acinetobacter_lwoffii",
+    "temp": 26.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 3.02883,
+    "species": "Acinetobacter_nectaris",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis",
+    "temp": 34.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 4.39905,
+    "species": "Acinetobacter_radioresistens",
+    "temp": 35.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.06866,
+    "species": "Acinetobacter_schindleri",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 62.20783,
+    "species": "Acinetobacter_unclassified",
+    "temp": 25.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Enhydrobacter_aerosaccus",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pseudomonas_aeruginosa",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pseudomonas_amygdali",
+    "temp": 27.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pseudomonas_fragi",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Pseudomonas_mandelii",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 30.585089999999997,
+    "species": "Pseudomonas_putida",
+    "temp": 27.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 35.03863,
+    "species": "Pseudomonas_unclassified",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Stenotrophomonas_maltophilia",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Spiroplasma_melliferum",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Zygosaccharomyces_rouxii",
+    "temp": 22.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Fusarium_unclassified",
+    "temp": 26.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Nosema_ceranae",
+    "temp": 35.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Cronobacter_phage_vB_CsaM_GAP161",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Enterobacteria_phage_CC31",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.6207600000000001,
+    "species": "C2likevirus_unclassified",
+    "temp": 30.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Human_adenovirus_D",
+    "temp": 37.0
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Plectrovirus_unclassified",
+    "temp": 33.5
+  },
+  {
+    "location": "FORT GREENE",
+    "percentage": 0.0,
+    "species": "Influenza_A_virus",
+    "temp": 35.0
+  }
+]
